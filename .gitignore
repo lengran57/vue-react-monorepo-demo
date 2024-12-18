@@ -1,0 +1,3 @@
+node_modules
+/apps/react/node_modules/
+/apps/vue/node_modules/
